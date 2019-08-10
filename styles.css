@@ -1,0 +1,21 @@
+html {
+    max-width: 100%;
+    min-height: 100%;
+    position: relative;
+    background-color: #f1f1f1;
+}
+
+.container {
+    display: flex;
+}
+
+.container--font__medium {
+    font-size: 19px;
+    line-height: 180%;
+}
+
+footer .author {
+    font-size: 18px;
+    bottom: 0;
+    position: absolute;
+}
