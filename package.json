@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "yarn browser-sync start --server --files *"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
